@@ -4,7 +4,7 @@
 package kiki;
 
 /**
- * @author Isnaeni
+ * @author Kiko
  *
  */
 public class laporan1 {
@@ -35,7 +35,7 @@ public class laporan1 {
 		int a = 9*3;
 		float b = 9/2;
 		System.out.println("Perkalian" + a);
-		System.out.println("Pembagian" + a);
+		System.out.println("Pembagian" + b);
 	}
 	public static void biodata()
 	{
